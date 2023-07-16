@@ -6,10 +6,11 @@ Twitter: 9.97.0-release.0
 Twitch: 15.4.1  
 TikTok: 30.4.4  
 Boost: 1.12.12  
-Instagram: 275.0.0.27.98  
 Messenger: 417.0.0.12.64  
+Instagram: 275.0.0.27.98  
 pixiv: 6.85.0  
 novalauncher: 7.0.57  
+nyxmusic: 2.2.7  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
