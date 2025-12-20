@@ -1,26 +1,14 @@
-YouTube: 18.32.39  
-Music (arm64-v8a): 6.18.52  
-Music (arm-v7a): 6.18.52  
-Twitch: 15.4.1  
-Twitter: 10.5.0-release.1  
-TikTok: 31.2.2  
-Reddit: 2023.35.0  
+GooglePhotos (arm64-v8a): 7.57.0.843750501  
+GooglePhotos (arm-v7a): 7.57.0.843750501  
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
+YouTube: 20.14.43  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
+Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
 
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
-
----
-Changelog:  
-CLI: j-hc/revanced-cli-3.1.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.117.1.apk  
-Patches: ReVanced/revanced-patches-2.190.0.jar  
-
-### [2.190.0](https://github.com/ReVanced/revanced-patches/compare/v2.189.0...v2.190.0) (2023-09-03)
-### Bug Fixes
-* **Infinity for Reddit - Spoof client:** Support latest version ([8a5311b](https://github.com/ReVanced/revanced-patches/commit/8a5311b1e645ca2aab1e416d647cf52bf0be6e7f))
-### Features
-* **Photomath:** Support latest version ([5a2cad0](https://github.com/ReVanced/revanced-patches/commit/5a2cad077f03880ee1417c5cfd448bbdea4c07e2))
-* **Twitch:** Support version `16.1.0` ([#2923](https://github.com/ReVanced/revanced-patches/issues/2923)) ([d9834a9](https://github.com/ReVanced/revanced-patches/commit/d9834a9abb43390af4cb33f5dd5a0e2d3b7060e2))
-
----  
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+  
+CLI: j-hc/revanced-cli-5.0.0-all.jar  
+Patches: ReVanced/patches-5.47.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
